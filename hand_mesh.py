@@ -23,7 +23,7 @@ Prerequisites (Windows + Python 3.10 64-bit):
     pip install mediapipe opencv-python numpy
 
 Run:
-    python hand_tracker_with_game.py
+    python hand_mesh.py
 Press ESC to exit.
 """
 
